@@ -1,4 +1,4 @@
-# Olympics
+# Olympics: Codédex Summer Hackathon 2024
 Forecast Paris 2024 Olympics Champions: Insights from Tokyo Olympics
 # Paris 2024 Olympics Champions: Insights from Tokyo Olympics
 
